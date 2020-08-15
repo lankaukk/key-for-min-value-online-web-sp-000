@@ -6,7 +6,7 @@ def key_for_min_value(name_hash)
     if value < value 
       return name
     else
-      nil
+      return nil
     end
   end
 end
