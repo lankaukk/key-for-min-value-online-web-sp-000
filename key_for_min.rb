@@ -15,7 +15,7 @@ def key_for_min_value(name_hash)
       if i[1] < d_value
         d_value = i[1]
         d_key = i[0]
-      elsif name_a.index == 0 
+      elsif name_a.index == 1 
         nil
       end
 
