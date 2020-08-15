@@ -6,8 +6,8 @@ def key_for_min_value(name_hash)
   name_a = name_hash.to_a
 
   # Default key value
-  d_value= 1000
-  d_key= 0
+  d_value= 10000
+  d_key= -10
 
   # Iterate new array 
   name_a.each do |i|
